@@ -1,1 +1,14 @@
 /*  your css code here. If applicable */
+.imageContainer img{
+	width : 600px;
+	height :350px;
+}
+table{
+	width : 1000px ;
+}
+.image{
+	width : 200px;
+}
+.middle{
+	width : 600px ;
+}
